@@ -1,4 +1,4 @@
-![logo]([https://github.com/MonikaGade/MonikaGade/blob/main/White%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner.png](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif))
+![logo](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)
 <h1 align="center">Hi 👋, I'm Monika Gade</h1>
 <h3 align="center">A passionate java developer from India</h3>
 
